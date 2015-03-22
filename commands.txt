@@ -1,0 +1,1 @@
+g++ -L/usr/lib firstWindow.cpp -lglut -lGL
